@@ -1,0 +1,14 @@
+.card-container{
+    display: flex;
+    flex-direction: row;
+    
+
+}
+.card-container > div{
+    width:200px ;
+    padding: 10px;
+    background-color:aliceblue;
+}
+img {
+  width: 20%;
+}
